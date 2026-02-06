@@ -12,7 +12,9 @@
   "dependencies": {
     "@splinetool/viewer": "^1.12.51",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "vite": "^x.x.x",
+    "@vitejs/plugin-react": "^x.x.x"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
